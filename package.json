@@ -1,0 +1,15 @@
+{
+  "name": "node-swatcher",
+  "version": "1.0.0",
+  "description": "a nodemon clone",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "swatcher": "node index.js"
+  },
+  "bin": {
+    "swatcher": "./index.js"
+  },
+  "author": "swayam_prajapat",
+  "license": "ISC"
+}
